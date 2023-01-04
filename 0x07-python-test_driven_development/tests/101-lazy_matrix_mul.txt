@@ -1,24 +1,5 @@
-
-Search or jump to…
-Pulls
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@taiwoak 
-bdbaraban
-/
-holbertonschool-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-
 # 101-lazy_matrix_mul.txt
-# Brennan D Baraban <375@holbertonschool.com>
+
 
 =================================
 How to Use 101-lazy_matrix_mul.py
